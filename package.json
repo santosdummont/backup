@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://santosdummont.github.io/portfolio",
+  "homepage": "https://santosdummont.github.io/santosdummont.github.io",
   "dependencies": {
     "@babel/core": "7.5.5",
     "@svgr/webpack": "4.3.2",
@@ -28,7 +28,6 @@
     "eslint-plugin-react-hooks": "^1.6.1",
     "file-loader": "3.0.1",
     "fs-extra": "7.0.1",
-    "gh-pages": "^2.1.1",
     "html-webpack-plugin": "4.0.0-beta.5",
     "identity-obj-proxy": "3.0.0",
     "is-wsl": "^1.1.0",
@@ -149,5 +148,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
