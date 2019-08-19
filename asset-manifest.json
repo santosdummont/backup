@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/santosdummont.github.io/static/css/main.86cab70e.chunk.css",
-    "main.js": "/santosdummont.github.io/static/js/main.4e0ba35e.chunk.js",
-    "main.js.map": "/santosdummont.github.io/static/js/main.4e0ba35e.chunk.js.map",
-    "runtime~main.js": "/santosdummont.github.io/static/js/runtime~main.11b86985.js",
-    "runtime~main.js.map": "/santosdummont.github.io/static/js/runtime~main.11b86985.js.map",
-    "static/js/2.fcc20cf4.chunk.js": "/santosdummont.github.io/static/js/2.fcc20cf4.chunk.js",
-    "static/js/2.fcc20cf4.chunk.js.map": "/santosdummont.github.io/static/js/2.fcc20cf4.chunk.js.map",
-    "index.html": "/santosdummont.github.io/index.html",
-    "precache-manifest.25245116b81f4544038eada43233be80.js": "/santosdummont.github.io/precache-manifest.25245116b81f4544038eada43233be80.js",
-    "service-worker.js": "/santosdummont.github.io/service-worker.js",
-    "static/css/main.86cab70e.chunk.css.map": "/santosdummont.github.io/static/css/main.86cab70e.chunk.css.map"
+    "main.css": "/portfolio/static/css/main.86cab70e.chunk.css",
+    "main.js": "/portfolio/static/js/main.0db32976.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0db32976.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.cbff171f.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.cbff171f.js.map",
+    "static/js/2.fcc20cf4.chunk.js": "/portfolio/static/js/2.fcc20cf4.chunk.js",
+    "static/js/2.fcc20cf4.chunk.js.map": "/portfolio/static/js/2.fcc20cf4.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.6da2ce86d1a27ae0ed0022af37e200a3.js": "/portfolio/precache-manifest.6da2ce86d1a27ae0ed0022af37e200a3.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.86cab70e.chunk.css.map": "/portfolio/static/css/main.86cab70e.chunk.css.map"
   }
 }
